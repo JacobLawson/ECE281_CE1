@@ -13,4 +13,4 @@ ECE281_CE1
 | 1          |1       |0       |0       |
 | 1          |1       |1       |1       |
 
-![alt text](https://github.com/JacobLawson/ECE281_CE1/blob/master/CE_1.png)
+![alt text](https://github.com/JacobLawson/ECE281_CE1/blob/master/CE_1.png "Sim Results")
