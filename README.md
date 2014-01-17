@@ -1,8 +1,6 @@
 ECE281_CE1
 ==========
 
-Capt Silva's lame circuit
-
 | Truth Tables  | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | A          |B       |C       |F       |
@@ -14,3 +12,5 @@ Capt Silva's lame circuit
 | 1          |0       |1       |1       |
 | 1          |1       |0       |0       |
 | 1          |1       |1       |1       |
+
+![alt text](https://github.com/JacobLawson/markdown-here/raw/master/src/common
